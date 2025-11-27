@@ -10,7 +10,6 @@ Tenho 20 anos e sou graduando em Sistemas de Informação pela Universidade Esta
 
 ### 📫 Entre em Contato
 - [Email](mailto:jhoncs.004@gmail.com)
-- [Portfólio Wordpress](https://hero.page/jhoncsilva/jhonatan-portfolio)
 
 <!--
 **JhoncSilva/JhoncSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
