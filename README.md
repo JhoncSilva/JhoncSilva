@@ -1,12 +1,12 @@
 ### Olá, eu sou Jhonatan 👋
 
-Tenho 20 anos e sou graduando em Sistemas de Informação pela Universidade Estadual do Sudoeste da Bahia (UESB) e desenvolvedor focado em tecnologias web, principalmente PHP com Wordpress.  
+Sou graduando em Sistemas de Informação pela Universidade Estadual do Sudoeste da Bahia (UESB) e sou desenvolvedor com foco em tecnologias web, performance e infraestrutura.  
 
 ### 🚀 Habilidades Técnicas:
-- Desenvolvimento Web: WordPress, Elementor, Next.js, Angular
-- Desenvolvimento Mobile: Flutter
-- Back-end: Java Spring, MySQL, PostgreSQL
-- UI/UX: Figma, princípios de design e prototipação
+- Desenvolvimento Web: Angular, Astro, WordPress, Elementor, Next.js
+- Back-end: Java (Spring Boot), PHP, MySQL, PostgreSQL
+- Infraestrutura: VPS Linux, Nginx, Cloudflare (CDN, DNS, cache e segurança)  
+- UI/UX: Figma, princípios de design e prototipação 
 
 ### 📫 Entre em Contato
 - [Email](mailto:jhoncs.004@gmail.com)
